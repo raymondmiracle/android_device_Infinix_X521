@@ -1,0 +1,15 @@
+[
+  {
+    "remote": "github",
+    "repository": "Raymondmiracle/proprietary_vendor_Infinix_X521",
+    "target_path": "vendor/Infinix/X521",
+    "branch": "master"
+  },
+  {
+    "remote": "github",
+    "repository": "Raymondmiracle/android_kernel_Infinix_X521",
+    "target_path": "kernel/Infinix/X521",
+    "branch": "master"
+  }
+] 
+
